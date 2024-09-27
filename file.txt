@@ -1,2 +1,3 @@
  this is file 
  this is written after first commit
+ adding some in file.txt
